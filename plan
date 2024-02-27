@@ -1,0 +1,53 @@
+Please note that the Qiskit installation must specify version 0.43 for the notebook code to work
+!pip install qiskit[visualization]==0.43
+
+Yesterday, version 1.0.0 of Qiskit was released and the code is not compatible with this new version.
+If you simply install Qiskit, the latest version will be installed and you will not be able to run the notebooks.
+
+      Feb 17, Saturday
+Lecture 2
+Quantum Coin Flipping
+First Quantum Programs with Qiskit
+Hadamard Operator
+One Qubit
+Quantum State
+Superposition and Measurement
+Visualization of a (Real-Valued) Qubit
+Operations on the Unit Circle
+Rotations
+Reflections
+Quantum Tomography
+Two Qubits
+
+      Feb 20, Tuesday
+Lecture 3
+Entanglement and Superdense Coding
+Quantum Teleportation
+Multiple Control Constructions
+Phase Kickback
+Classical Gates
+Deutsch Algorithm
+
+      Feb 22, Thursday
+Lecture 4
+Deutsch-Jozsa Algorithm
+Bernstein-Vazirani Algorithm
+Simon's Algorithm
+
+      Feb 24, Saturday
+Lecture 5
+Grover's Algorithm
+
+      Feb 24, Saturday @ 20:00GST(1hr 45 mins)
+Lecture 5
+Inversion About the Mean
+Grover's Search: One Qubit Representation
+Grover's Search: Implementation
+
+      Feb 27, Tuesday @ 20:00 GST
+Lecture 6
+Introduction to Cirq
+Grover Algorithm Revisited
+Max-Cut Problem and Bipartite Graphs
+Adders and Numbers Checking
+Grover algorithm for Max-Cut Problem
